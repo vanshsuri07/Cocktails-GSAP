@@ -76,11 +76,14 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## 📸 Demo
 
-[Live Demo](#) *(replace with your deployed link)*
+[Live Demo]cocktails-gsap-cqyu.vercel.app
 
-🙋‍♂️ Author
-Your Name – @yvanshsuri07
+## 🙋‍♂️ Author
+
+Your Name – @vanshsuri07
+
 Feel free to reach out or contribute!
 
-📄 License
+ ## 📄 License
+ 
 This project is licensed under the MIT License. See LICENSE for more info.
