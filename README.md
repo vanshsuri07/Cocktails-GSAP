@@ -76,7 +76,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## 📸 Demo
 
-[Live Demo](https://cocktails-gsap-cqyu-lb5d92p5k-vanshsuri07s-projects.vercel.app/)
+[Live Demo](https://cocktails-gsap-cqyu.vercel.app/)
 
 ## 🙋‍♂️ Author
 
